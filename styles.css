@@ -9,3 +9,6 @@
 	border-top-left-radius: 50px;
 	border-bottom-right-radius:150px; 	 
 }
+li{
+	list-style-type: decimal-leading-zero;
+}
