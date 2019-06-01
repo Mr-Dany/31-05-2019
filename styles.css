@@ -10,5 +10,11 @@
 	border-bottom-right-radius:150px; 	 
 }
 li{
-	list-style-type: decimal-leading-zero;
+	list-style-type: decimal;
+}
+#menu1{
+	background-color: #409C17
+}
+#menu1 li{
+	display: inline-block;
 }
