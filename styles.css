@@ -1,6 +1,7 @@
 .colorcaja{
 	background-color: #0C99D4;
-	margin: 15px;
+	margin: auto;
+	width: 800px;
 	padding: 15px;
 	border-top: 5px solid #060606;
 	border-bottom:  5px solid #FF0E0E;
@@ -13,11 +14,19 @@ li{
 	list-style-type: decimal;
 }
 #menu1{
-	background-color: #409C17
+	background-color: #409C17;
+	width: 800px;
+	margin: auto;
+
 }
 #menu1 li{
 	display: inline-block;
 	padding: 5px;
+
+}
+#menu1 a{
+	text-decoration: none;
+	color: white;
 }
 #menu1 li:hover{
 	background-color: #FFFFFF
